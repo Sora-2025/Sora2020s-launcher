@@ -1,0 +1,8 @@
+{
+    "color_theme": "green",
+    "theme": "system",
+    "bg_image_path": "default",
+    "minecraft_directory": "default",
+    "view_available_versions": "true",
+    "in_version_list": ["release"]
+}
